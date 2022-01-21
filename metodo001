@@ -1,0 +1,8 @@
+<?php
+
+function geraNumero($item){
+  $a = new Class();
+  $a->setItemDaCaixa($item);
+  
+  return $a;
+}
